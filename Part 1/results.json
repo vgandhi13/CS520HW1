@@ -1,0 +1,602 @@
+[
+  {
+    "file": "humaneval_HumanEval_0_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_0",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_0_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_0",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_0_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_0",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_0_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_0",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_10_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_10",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'make_palindrome' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_10_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_10",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'make_palindrome' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_10_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_10",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'make_palindrome' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_10_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_10",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'make_palindrome' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_11_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_11",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'string_xor' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_11_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_11",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'string_xor' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_11_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_11",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'string_xor' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_11_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_11",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'string_xor' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_12_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_12",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'longest' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_12_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_12",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'longest' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_12_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_12",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'longest' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_12_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_12",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'longest' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_13_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_13",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'greatest_common_divisor' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_13_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_13",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'greatest_common_divisor' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_13_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_13",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'greatest_common_divisor' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_13_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_13",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'greatest_common_divisor' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_14_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_14",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'all_prefixes' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_14_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_14",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Function 'all_prefixes' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_14_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_14",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'all_prefixes' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_14_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_14",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Function 'all_prefixes' not found in the code",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_1_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_1_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_1_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_1_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Runtime error: name 'cleaned_string' is not defined",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_2_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_2",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Runtime error: name 'math' is not defined",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_2_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_2",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_2_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_2",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_2_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_2",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_3_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_3",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_3_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_3",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_3_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_3",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_3_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_3",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_4_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_4",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_4_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_4",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_4_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_4",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_4_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_4",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_6_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_6",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_6_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_6",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_6_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_6",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_6_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_6",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_7_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_7",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_7_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_7",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_7_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_7",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_7_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_7",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_8_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_8",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_8_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_8",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_8_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_8",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_8_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_8",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_9_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_9",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_9_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_9",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Runtime error: list index out of range",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_9_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_9",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_9_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_9",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  }
+]

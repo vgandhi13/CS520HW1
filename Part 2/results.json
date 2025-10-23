@@ -1,0 +1,82 @@
+[
+  {
+    "file": "humaneval_HumanEval_1_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Execution failed: invalid syntax. Perhaps you forgot a comma? (<string>, line 52)\nTraceback (most recent call last):\n  File \"/var/folders/z4/0lpbcqpj0vg_4p2l4z8md5cc0000gn/T/ipykernel_16410/711688988.py\", line 20, in check_correctness\n    exec(code, namespace)\n    ~~~~^^^^^^^^^^^^^^^^^\n  File \"<string>\", line 52\n    current_group = \"\".join(paren_string[:paren_string.index(char ill \u0435\u043b\u0435\u043c \u0441\u043f\u0438\u0441\u043e\u043a \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442.append(current_group) if balance > 0 else '')\n                                                             ^^^^^^^^\nSyntaxError: invalid syntax. Perhaps you forgot a comma?\n",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_1_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Runtime error: name 'parens' is not defined",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_1_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_1_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Execution failed: cannot import name 'Str' from 'typing' (/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/typing.py)\nTraceback (most recent call last):\n  File \"/var/folders/z4/0lpbcqpj0vg_4p2l4z8md5cc0000gn/T/ipykernel_16410/711688988.py\", line 20, in check_correctness\n    exec(code, namespace)\n    ~~~~^^^^^^^^^^^^^^^^^\n  File \"<string>\", line 17, in <module>\nImportError: cannot import name 'Str' from 'typing' (/opt/homebrew/Cellar/python@3.13/3.13.5/Frameworks/Python.framework/Versions/3.13/lib/python3.13/typing.py)\n",
+    "tests_passed": 0,
+    "tests_total": 0
+  },
+  {
+    "file": "humaneval_HumanEval_5_Llama_3.2_1B_Instruct_cot.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_Llama_3.2_1B_Instruct_scot.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_OLMo_2_1B_cot.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_OLMo_2_1B_scot.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  }
+]

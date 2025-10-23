@@ -1,0 +1,42 @@
+[
+  {
+    "file": "humaneval_HumanEval_1_Llama_3.2_1B_Instruct.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_1_OLMo_2_1B.py",
+    "problem_id": "humaneval_HumanEval_1",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_Llama_3.2_1B_Instruct.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "Llama",
+    "strategy": "3.2",
+    "passed": true,
+    "error": null,
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  },
+  {
+    "file": "humaneval_HumanEval_5_OLMo_2_1B.py",
+    "problem_id": "humaneval_HumanEval_5",
+    "model": "OLMo",
+    "strategy": "2",
+    "passed": false,
+    "error": "Test failed: ",
+    "tests_passed": "unknown",
+    "tests_total": "unknown"
+  }
+]
