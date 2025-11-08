@@ -1,0 +1,422 @@
+{
+  "humaneval_HumanEval_0": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_0_Llama_cot.py",
+      "entry_point": "has_close_elements",
+      "source": "humaneval_HumanEval_0_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_0_Llama_scot.py",
+      "entry_point": "has_close_elements",
+      "source": "humaneval_HumanEval_0_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_0_OLMo_cot.py",
+      "entry_point": "has_close_elements",
+      "source": "humaneval_HumanEval_0_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_0_OLMo_scot.py",
+      "entry_point": "has_close_elements",
+      "source": "humaneval_HumanEval_0_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": true
+    }
+  ],
+  "humaneval_HumanEval_1": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_1_Llama_cot.py",
+      "entry_point": "separate_paren_groups",
+      "source": "humaneval_HumanEval_1_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_1_Llama_scot.py",
+      "entry_point": "separate_paren_groups",
+      "source": "humaneval_HumanEval_1_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_1_OLMo_cot.py",
+      "entry_point": "separate_paren_groups",
+      "source": "humaneval_HumanEval_1_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_1_OLMo_scot.py",
+      "entry_point": "separate_paren_groups",
+      "source": "humaneval_HumanEval_1_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": false
+    }
+  ],
+  "humaneval_HumanEval_2": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_2_Llama_cot.py",
+      "entry_point": "truncate_number",
+      "source": "humaneval_HumanEval_2_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_2_Llama_scot.py",
+      "entry_point": "truncate_number",
+      "source": "humaneval_HumanEval_2_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_2_OLMo_cot.py",
+      "entry_point": "truncate_number",
+      "source": "humaneval_HumanEval_2_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_2_OLMo_scot.py",
+      "entry_point": "truncate_number",
+      "source": "humaneval_HumanEval_2_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": false
+    }
+  ],
+  "humaneval_HumanEval_3": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_3_Llama_cot.py",
+      "entry_point": "below_zero",
+      "source": "humaneval_HumanEval_3_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_3_Llama_scot.py",
+      "entry_point": "below_zero",
+      "source": "humaneval_HumanEval_3_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_3_OLMo_cot.py",
+      "entry_point": "below_zero",
+      "source": "humaneval_HumanEval_3_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_3_OLMo_scot.py",
+      "entry_point": "below_zero",
+      "source": "humaneval_HumanEval_3_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": true
+    }
+  ],
+  "humaneval_HumanEval_4": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_4_Llama_cot.py",
+      "entry_point": "mean_absolute_deviation",
+      "source": "humaneval_HumanEval_4_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_4_Llama_scot.py",
+      "entry_point": "mean_absolute_deviation",
+      "source": "humaneval_HumanEval_4_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_4_OLMo_cot.py",
+      "entry_point": "mean_absolute_deviation",
+      "source": "humaneval_HumanEval_4_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_4_OLMo_scot.py",
+      "entry_point": "mean_absolute_deviation",
+      "source": "humaneval_HumanEval_4_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": true
+    }
+  ],
+  "humaneval_HumanEval_5": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_5_Llama_cot.py",
+      "entry_point": "intersperse",
+      "source": "humaneval_HumanEval_5_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_5_Llama_scot.py",
+      "entry_point": "intersperse",
+      "source": "humaneval_HumanEval_5_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_5_OLMo_cot.py",
+      "entry_point": "intersperse",
+      "source": "humaneval_HumanEval_5_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_5_OLMo_scot.py",
+      "entry_point": "intersperse",
+      "source": "humaneval_HumanEval_5_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": false
+    }
+  ],
+  "humaneval_HumanEval_6": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_6_Llama_cot.py",
+      "entry_point": "parse_nested_parens",
+      "source": "humaneval_HumanEval_6_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_6_Llama_scot.py",
+      "entry_point": "parse_nested_parens",
+      "source": "humaneval_HumanEval_6_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_6_OLMo_cot.py",
+      "entry_point": "parse_nested_parens",
+      "source": "humaneval_HumanEval_6_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_6_OLMo_scot.py",
+      "entry_point": "parse_nested_parens",
+      "source": "humaneval_HumanEval_6_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": false
+    }
+  ],
+  "humaneval_HumanEval_7": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_7_Llama_cot.py",
+      "entry_point": "filter_by_substring",
+      "source": "humaneval_HumanEval_7_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_7_Llama_scot.py",
+      "entry_point": "filter_by_substring",
+      "source": "humaneval_HumanEval_7_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_7_OLMo_cot.py",
+      "entry_point": "filter_by_substring",
+      "source": "humaneval_HumanEval_7_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_7_OLMo_scot.py",
+      "entry_point": "filter_by_substring",
+      "source": "humaneval_HumanEval_7_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": true
+    }
+  ],
+  "humaneval_HumanEval_8": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_8_Llama_cot.py",
+      "entry_point": "sum_product",
+      "source": "humaneval_HumanEval_8_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_8_Llama_scot.py",
+      "entry_point": "sum_product",
+      "source": "humaneval_HumanEval_8_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_8_OLMo_cot.py",
+      "entry_point": "sum_product",
+      "source": "humaneval_HumanEval_8_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_8_OLMo_scot.py",
+      "entry_point": "sum_product",
+      "source": "humaneval_HumanEval_8_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": true
+    }
+  ],
+  "humaneval_HumanEval_9": [
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_9_Llama_cot.py",
+      "entry_point": "rolling_max",
+      "source": "humaneval_HumanEval_9_Llama_3.2_1B_Instruct_cot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "cot",
+      "variant_id": "Llama_cot",
+      "passed": true
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_9_Llama_scot.py",
+      "entry_point": "rolling_max",
+      "source": "humaneval_HumanEval_9_Llama_3.2_1B_Instruct_scot.py",
+      "model": "Llama_3.2_1B_Instruct",
+      "model_short": "Llama",
+      "strategy": "scot",
+      "variant_id": "Llama_scot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_9_OLMo_cot.py",
+      "entry_point": "rolling_max",
+      "source": "humaneval_HumanEval_9_OLMo_2_1B_cot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "cot",
+      "variant_id": "OLMo_cot",
+      "passed": false
+    },
+    {
+      "file": "/Users/varungandhi/Documents/UMass Semesters/Fall 25/CS 520/Homework/HumanEval+/Exercise2/solutions/problem_9_OLMo_scot.py",
+      "entry_point": "rolling_max",
+      "source": "humaneval_HumanEval_9_OLMo_2_1B_scot.py",
+      "model": "OLMo_2_1B",
+      "model_short": "OLMo",
+      "strategy": "scot",
+      "variant_id": "OLMo_scot",
+      "passed": false
+    }
+  ]
+}
